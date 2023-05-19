@@ -1,0 +1,44 @@
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+p {
+  color: black;
+}
+
+table,
+th,
+td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  background-color: yellow;
+}
+
+td {
+  padding: 10px;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+.Dept {
+  background-color: maroon;
+  border: 1px solid black;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  float: left;
+  width: 50%;
+}
